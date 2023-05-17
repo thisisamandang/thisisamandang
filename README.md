@@ -21,7 +21,9 @@
 </p>
 <hr />
 <h3 align="left">Github Stats:</h3>
-<br/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisamandang&theme=dark&hide_border=false&include_all_commits=false&count_private=false "/></p><br/> <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisamandang&theme=dark&hide_border=false "/></p><br/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamandang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p><br/> <p>&nbsp;<img align="left" src="https://komarev.com/ghpvc/?username=thisisamandang"/> </p><hr/> ;
+<br/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisamandang&theme=dark&hide_border=false&include_all_commits=false&count_private=false "/></p><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisamandang&theme=dark&hide_border=false "/></p><br/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisamandang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p><br/>
+<p>&nbsp;<img align="left" src="https://komarev.com/ghpvc/?username=thisisamandang"/> </p><hr/> ;
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/whoamandang"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="25" width="120" alt="whoamandang" /></a></p><br><br>
 
